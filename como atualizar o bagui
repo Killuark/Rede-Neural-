@@ -1,0 +1,8 @@
+git init
+git remote add origin <link>
+git pull origin master
+
+caso fizer alguma alteração...
+git add .
+git commit -m 'commit alteração'
+git push -u origin master
